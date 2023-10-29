@@ -1,1 +1,1 @@
-static library
+Introduction to C - Static libraries
